@@ -1,7 +1,27 @@
 # Pandas
 We pare down complex topics to their key practical components, so you gain usable skills in a few hours (instead of weeks or months).
 <pre>
-<h1>Lessons</h1>
+<b>Builds on</b>
+<ins>Python</ins>
+
+<b>Preparation for</b>
+<ins>Geospatial Analysis</ins>
+<ins>Data Cleaning</ins>
+<ins>Intermediate Machine Learning</ins>
+
+<b>Hours to earn certificate</b>
+4 (estimated)
+
+<b>Cost</b>
+No cost, like all Kaggle Learn Courses
+
+<b>Instructor</b>
+<ins>Aleksey Bilogur</ins>
+</pre>
+
+
+# Lessons
+<pre>
 <b>1 Creating, Reading and Writing</b>
 You can't work with data if you can't read it. Get started here.
   
@@ -18,24 +38,5 @@ Scale up your level of insight. The more complex the dataset, the more this matt
 Deal with the most common progress-blocking problems
 
 <b>6 Renaming and Combining</b>
-Data comes in from many sources. Help it all make sense together
-  
-</pre>
-<pre>
-<b>Builds on</b>
-Python
-
-<b>Preparation for</b>
-Geospatial Analysis
-Data Cleaning
-Intermediate Machine Learning
-
-<b>Hours to earn certificate</b>
-4 (estimated)
-
-<b>Cost</b>
-No cost, like all Kaggle Learn Courses
-
-<b>Instructor</b>
-Aleksey Bilogur
+Data comes in from many sources. Help it all make sense together 
 </pre>
